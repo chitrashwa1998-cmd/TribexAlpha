@@ -34,7 +34,7 @@ export default function Contact() {
                     <div>
                       <p className="font-semibold text-lg mb-1">Email</p>
                       <p className="text-muted-foreground" data-testid="contact-email">
-                        TribexAlpha@gmail.com
+                        Tribex@tribexgroup.in
                       </p>
                     </div>
                   </div>
